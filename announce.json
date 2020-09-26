@@ -27,8 +27,8 @@
     "desc": "JBusDriver 1.2.20build602 更新!\r\n1.配置地址更新"
   },
   "notice": {
-    "id": 16,
-    "content": "提示：\r\n1. 磁力插件btso.pw更新。"
+    "id": 17,
+    "content": "提示：\r\n1. 磁力插件更新,添加超人磁力站，可在磁力源配置中开启。"
   },
   "plugins": {
     "internal": [
