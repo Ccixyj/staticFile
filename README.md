@@ -1,3 +1,3 @@
 # static
 
-jbus文件发布
+jbus静态文件发布仓库
